@@ -63,6 +63,6 @@ Welcome to the guide on switching from Windows, a paid software, to Deepin OS, a
 
 Congratulations on making the switch to Deepin OS! We hope you find this guide helpful. If you encounter any issues or have questions, feel free to reach out to the community forums or check the documentation link provided above.
 
----
+## Note 
 
-Feel free to modify this template to better suit your specific needs and preferences.
+If you have RAM more than 2 GB go with lingmo OS which is also a free linux distro ehich exactly looks and feels like Mac Os
