@@ -2,6 +2,16 @@
 
 # Switch from Windows to Deepin OS
 
+![WhatsApp Image 2024-08-04 at 09 07 25_8e895e4a](https://github.com/user-attachments/assets/8f7ce163-8cdc-4e6e-b1e6-7de17464face)
+![WhatsApp Image 2024-08-04 at 09 07 24_0954005c](https://github.com/user-attachments/assets/95d08c44-2ba5-44f4-8622-c8a0cbf5e648)
+![WhatsApp Image 2024-08-04 at 09 07 24_80045a74](https://github.com/user-attachments/assets/b4b2ea14-a98d-426c-abe5-6961aaf19f42)
+![WhatsApp Image 2024-08-04 at 09 07 23_fe8052f4](https://github.com/user-attachments/assets/91127cdb-50cc-4f23-9d3c-1b46aa1501b5)
+![WhatsApp Image 2024-08-04 at 09 07 23_ac56194e](https://github.com/user-attachments/assets/c0084611-fe4d-43d8-b8bc-45b6b9fe7b5a)
+![WhatsApp Image 2024-08-04 at 09 07 22_5438d941](https://github.com/user-attachments/assets/896d977c-d50a-48ab-bf7b-39f2db3d2c15)
+![WhatsApp Image 2024-08-04 at 09 07 22_4f2beb48](https://github.com/user-attachments/assets/6c0edaa0-7d88-4c76-ad92-16de124300bd)
+![WhatsApp Image 2024-08-04 at 09 07 21_65868b16](https://github.com/user-attachments/assets/2bd7584d-17fb-47cb-a84c-7fdc62a13dd3)
+
+
 ## Introduction
 
 Welcome to the guide on switching from Windows, a paid software, to Deepin OS, a free Linux distribution that looks and feels similar to both Windows and macOS. Deepin OS is known for its beautiful and user-friendly interface and can run efficiently on PCs or laptops with less than 2GB of RAM.
