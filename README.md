@@ -21,7 +21,7 @@
 ##
 ## Introduction
 
-Welcome to the guide on switching from Windows, a paid software, to Deepin OS, a free Linux distribution that looks and feels similar to both Windows and macOS. Deepin OS is known for its beautiful and user-friendly interface and can run efficiently on PCs or laptops with less than 2GB of RAM.
+Welcome to the guide on switching from Windows, a paid software, to **Deepin OS**, a free Linux distribution that looks and feels similar to both Windows and macOS. Deepin OS is known for its beautiful and user-friendly interface and can run efficiently on PCs or laptops with less than 2GB of RAM.
 
 ## Prerequisites
 
@@ -82,4 +82,4 @@ Congratulations on making the switch to Deepin OS! We hope you find this guide h
 
 ## Note 
 
-If you have RAM more than 2 GB go with lingmo OS which is also a free linux distro ehich exactly looks and feels like Mac Os
+If you have RAM more than 2 GB go with - [Lingmo OS](https://www.lingmo.org/en/downloads) which is also a free linux distro ehich exactly looks and feels like Mac OS
